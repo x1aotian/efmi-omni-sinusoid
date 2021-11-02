@@ -1,0 +1,6 @@
+/home/mars-desktop1/MARS/Efmi-Omni-Sinusoid/build/CMakeFiles/rebuild_cache.dir
+/home/mars-desktop1/MARS/Efmi-Omni-Sinusoid/build/CMakeFiles/TransFlow.dir
+/home/mars-desktop1/MARS/Efmi-Omni-Sinusoid/build/CMakeFiles/FMIBase.dir
+/home/mars-desktop1/MARS/Efmi-Omni-Sinusoid/build/CMakeFiles/edit_cache.dir
+/home/mars-desktop1/MARS/Efmi-Omni-Sinusoid/build/CMakeFiles/EOS_2imgs.dir
+/home/mars-desktop1/MARS/Efmi-Omni-Sinusoid/build/CMakeFiles/OmniSineBase.dir

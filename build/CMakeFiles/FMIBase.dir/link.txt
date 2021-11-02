@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libFMIBase.a  CMakeFiles/FMIBase.dir/src/fftMath.cc.o CMakeFiles/FMIBase.dir/src/fmiImage.cc.o CMakeFiles/FMIBase.dir/src/fmiRegistrationInit.cc.o CMakeFiles/FMIBase.dir/src/fmiRegistration.cc.o
+/usr/bin/ranlib ../lib/libFMIBase.a
